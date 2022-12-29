@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/mpapasterg/mpapasterg/main/logo.svg" width="250" height="250">
 </p>
 
-## :wave: About me
+## :information_source: About me
 
 Greetings people! :wave: My name is Menelaos-Panagiotis Papastergiou, I am 21 years old and currently an *undergraduate student* at the **Computer Engineering and Informatics Department (CEID)** of the **University of Patras**, **Greece**.
 

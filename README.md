@@ -11,7 +11,7 @@ Greetings people! :wave: My name is Menelaos-Panagiotis Papastergiou, I am 21 ye
 - Systems and Low Level Programming
 - Embedded Programming
 - Architecture and Logic Design
-- IoT, Real-Time Systems Design and Impmementation
+- IoT, Real-Time Systems Design and Implementation
 - Operating Systems Design
 - Programming Language and Compiler Design and Implementation
 - Data Structure and Algorithms Implementation

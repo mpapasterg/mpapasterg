@@ -45,7 +45,7 @@ Greetings people! :wave: My name is Menelaos-Panagiotis Papastergiou, I am 21 ye
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-<img width="4%" style="padding-right: 5ps;" src="https://www.swi-prolog.org/icons/vector/swipl-logo.svg" />
+<img width="4%" style="padding-right: 5ps;" src="https://starbeamrainbowlabs.com/images/logos/swi-prolog.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />

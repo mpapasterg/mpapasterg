@@ -18,7 +18,7 @@ Greetings people! :wave: My name is Menelaos-Panagiotis Papastergiou, I am 21 ye
 - AI/ML Algorithms Implementation
 - Full Stack + Mobile Web Developement
 
-## :fire: Current Fucus
+## :fire: Current Focus
 
 [![gparse](https://github-readme-stats.vercel.app/api/pin/?username=mpapasterg&repo=gparse)](https://github.com/mpapasterg/gparse)
 

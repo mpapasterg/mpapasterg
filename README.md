@@ -22,6 +22,7 @@ Hi, :wave: I'm Menelaos-Panagiotis Papastergiou, a Computer Engineer specializin
 
 <p float="left">
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meson/meson-original.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />

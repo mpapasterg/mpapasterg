@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/mpapasterg/mpapasterg/main/logo.svg" width="250" height="250">
 </p>
 
-## :information_source: About me
+# Hi, :wave: I'm Menelaos-Panagiotis Papastergiou
 
-Hi, :wave: I'm Menelaos-Panagiotis Papastergiou, a Computer Engineer specializing in concurrent and low-level systems programming, with a sweet spot for programming language and compiler design. Currently, I'm exploring Internet of Things programming paradigms to facilitate the implementation of highly performant, node-centric edge computing solutions.
+I'm a Computer Engineer specializing in concurrent and low-level systems programming, with a sweet spot for programming language and compiler design. Currently, I'm exploring Internet of Things programming paradigms to facilitate the implementation of highly performant, node-centric edge computing solutions.
 
 ## :bulb: Areas of Interest
 

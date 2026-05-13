@@ -4,23 +4,19 @@
 
 ## :information_source: About me
 
-Greetings people! :wave: My name is Menelaos-Panagiotis Papastergiou, I am 21 years old and currently an *undergraduate student* at the **Computer Engineering and Informatics Department (CEID)** of the **University of Patras**, **Greece**.
+Hi, :wave: I'm Menelaos-Panagiotis Papastergiou, a Computer Engineer specializing in concurrent and low-level systems programming, with a sweet spot for programming language and compiler design. Currently, I'm exploring Internet of Things programming paradigms to facilitate the implementation of highly performant, node-centric edge computing solutions.
 
 ## :bulb: Areas of Interest
 
 - Systems and Low Level Programming
 - Embedded Programming
-- Architecture and Logic Design
 - IoT, Real-Time Systems Design and Implementation
 - Operating Systems Design
 - Programming Language and Compiler Design and Implementation
 - Data Structure and Algorithms Implementation
 - AI/ML Algorithms Implementation
 - Full Stack + Mobile Web Developement
-
-## :fire: Current Focus
-
-[![gparse](https://github-readme-stats.vercel.app/api/pin/?username=mpapasterg&repo=gparse)](https://github.com/mpapasterg/gparse)
+- Architecture and Logic Design
 
 ## :zap: Technology Stack
 
@@ -41,30 +37,24 @@ Greetings people! :wave: My name is Menelaos-Panagiotis Papastergiou, I am 21 ye
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
-<img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-<img width="4%" style="padding-right: 5ps;" src="https://starbeamrainbowlabs.com/images/logos/swi-prolog.svg" />
+<img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" />        
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-<img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-<img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 
+
 ## :rocket: Statistics
 
-<a href="https://github-readme-stats.vercel.app/api?username=mpapasterg&show_icons=true&theme=nord&hide_border=True&include_all_commits=True&count_private=True">
-  <img src="https://github-readme-stats.vercel.app/api?username=mpapasterg&show_icons=true&theme=nord&hide_border=True&include_all_commits=True&count_private=True" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mpapasterg&layout=compact&theme=nord&hide_border=True&langs_count=10">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpapasterg&layout=compact&theme=nord&hide_border=True&langs_count=10" />
-</a>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mpapasterg&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpapasterg&layout=compact&theme=radical)
